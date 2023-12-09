@@ -1,0 +1,45 @@
+Module	Entry	Symbol	Name	Pathway ID	Pathway
+M00001	K00844	HK	hexokinase	map00010	Glycolysis / Gluconeogenesis
+M00001	K12407	GCK	glucokinase	map00010	Glycolysis / Gluconeogenesis
+M00001	K00845	glk	glucokinase	map00010	Glycolysis / Gluconeogenesis
+M00001	K25026	glk	glucokinase	map00010	Glycolysis / Gluconeogenesis
+M00001	K00886	ppgK	polyphosphate glucokinase	map00010	Glycolysis / Gluconeogenesis
+M00001	K08074	ADPGK	ADP-dependent glucokinase	map00010	Glycolysis / Gluconeogenesis
+M00001	K00918	pfkC	ADP-dependent phosphofructokinase/glucokinase	map00010	Glycolysis / Gluconeogenesis
+M00001	K01810	GPI, pgi	glucose-6-phosphate isomerase	map00010	Glycolysis / Gluconeogenesis
+M00001	K06859	pgi1	glucose-6-phosphate isomerase, archaeal	map00010	Glycolysis / Gluconeogenesis
+M00001	K13810	tal-pgi	transaldolase / glucose-6-phosphate isomerase	map00010	Glycolysis / Gluconeogenesis
+M00001	K15916	pgi-pmi	glucose/mannose-6-phosphate isomerase	map00010	Glycolysis / Gluconeogenesis
+M00001	K00850	pfkA, PFK	6-phosphofructokinase 1	map00010	Glycolysis / Gluconeogenesis
+M00001	K16370	pfkB	6-phosphofructokinase 2	map00010	Glycolysis / Gluconeogenesis
+M00001	K21071	pfk, pfp	ATP-dependent phosphofructokinase / diphosphate-dependent phosphofructokinase	map00010	Glycolysis / Gluconeogenesis
+M00001	K00918	pfkC	ADP-dependent phosphofructokinase/glucokinase	map00010	Glycolysis / Gluconeogenesis
+M00001	K01623	ALDO	fructose-bisphosphate aldolase, class I	map00010	Glycolysis / Gluconeogenesis
+M00001	K01624	FBA, fbaA	fructose-bisphosphate aldolase, class II	map00010	Glycolysis / Gluconeogenesis
+M00001	K11645	fbaB	fructose-bisphosphate aldolase, class I	map00010	Glycolysis / Gluconeogenesis
+M00001	K16305	K16305	fructose-bisphosphate aldolase / 6-deoxy-5-ketofructose 1-phosphate synthase	map00010	Glycolysis / Gluconeogenesis
+M00001	K16306	K16306	fructose-bisphosphate aldolase / 2-amino-3,7-dideoxy-D-threo-hept-6-ulosonate synthase	map00010	Glycolysis / Gluconeogenesis
+M00001	K01803	TPI, tpiA	triosephosphate isomerase (TIM)	map00010	Glycolysis / Gluconeogenesis
+M00001	K00134	GAPDH, gapA	glyceraldehyde 3-phosphate dehydrogenase (phosphorylating)	map00010	Glycolysis / Gluconeogenesis
+M00001	K00150	gap2, gapB	glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)	map00010	Glycolysis / Gluconeogenesis
+M00001	K00927	PGK, pgk	phosphoglycerate kinase	map00010	Glycolysis / Gluconeogenesis
+M00001	K11389	gapor	glyceraldehyde-3-phosphate dehydrogenase (ferredoxin)	map00010	Glycolysis / Gluconeogenesis
+M00001	K01834	PGAM, gpmA	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase	map00010	Glycolysis / Gluconeogenesis
+M00001	K15633	gpmI	2,3-bisphosphoglycerate-independent phosphoglycerate mutase	map00010	Glycolysis / Gluconeogenesis
+M00001	K15634	gpmB	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase	map00010	Glycolysis / Gluconeogenesis
+M00001	K15635	apgM	2,3-bisphosphoglycerate-independent phosphoglycerate mutase	map00010	Glycolysis / Gluconeogenesis
+M00001	K01689	ENO, eno	enolase	map00010	Glycolysis / Gluconeogenesis
+M00001	K00873	PK, pyk	pyruvate kinase	map00010	Glycolysis / Gluconeogenesis
+M00001	K12406	PKLR	pyruvate kinase isozymes R/L	map00010	Glycolysis / Gluconeogenesis
+M00002	K01803	TPI, tpiA	triosephosphate isomerase (TIM)	map00010	Glycolysis / Gluconeogenesis
+M00002	K00134	GAPDH, gapA	glyceraldehyde 3-phosphate dehydrogenase (phosphorylating)	map00010	Glycolysis / Gluconeogenesis
+M00002	K00150	gap2, gapB	glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)	map00010	Glycolysis / Gluconeogenesis
+M00002	K00927	PGK, pgk	phosphoglycerate kinase	map00010	Glycolysis / Gluconeogenesis
+M00002	K11389	gapor	glyceraldehyde-3-phosphate dehydrogenase (ferredoxin)	map00010	Glycolysis / Gluconeogenesis
+M00002	K01834	PGAM, gpmA	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase	map00010	Glycolysis / Gluconeogenesis
+M00002	K15633	gpmI	2,3-bisphosphoglycerate-independent phosphoglycerate mutase	map00010	Glycolysis / Gluconeogenesis
+M00002	K15634	gpmB	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase	map00010	Glycolysis / Gluconeogenesis
+M00002	K15635	apgM	2,3-bisphosphoglycerate-independent phosphoglycerate mutase	map00010	Glycolysis / Gluconeogenesis
+M00002	K01689	ENO, eno	enolase	map00010	Glycolysis / Gluconeogenesis
+M00002	K00873	PK, pyk	pyruvate kinase	map00010	Glycolysis / Gluconeogenesis
+M00002	K12406	PKLR	pyruvate kinase isozymes R/L	map00010	Glycolysis / Gluconeogenesis
